@@ -8,6 +8,55 @@
 # Put this rule-set before GEOIP and FINAL rules.
 
 # =========================
+# ADDITIONAL NATIONAL / DIGITAL MEDIA
+# =========================
+DOMAIN-SUFFIX,idntimes.com
+DOMAIN-SUFFIX,popbela.com
+DOMAIN-SUFFIX,popmama.com
+DOMAIN-SUFFIX,brilio.net
+DOMAIN-SUFFIX,dream.co.id
+DOMAIN-SUFFIX,kapanlagi.com
+DOMAIN-SUFFIX,kapanlagi.co.id
+DOMAIN-SUFFIX,otosia.com
+DOMAIN-SUFFIX,fimela.com
+DOMAIN-SUFFIX,bola.net
+DOMAIN-SUFFIX,kontan.co.id
+DOMAIN-SUFFIX,investor.id
+DOMAIN-SUFFIX,bisnisindonesia.id
+DOMAIN-SUFFIX,voi.id
+DOMAIN-SUFFIX,minews.id
+DOMAIN-SUFFIX,rm.id
+DOMAIN-SUFFIX,validnews.id
+DOMAIN-SUFFIX,goodnewsfromindonesia.id
+DOMAIN-SUFFIX,theconversation.com
+DOMAIN-SUFFIX,infopublik.id
+
+# =========================
+# GOVERNMENT / PUBLIC BROADCAST NEWS
+# =========================
+DOMAIN-SUFFIX,rri.co.id
+DOMAIN-SUFFIX,tvri.go.id
+DOMAIN-SUFFIX,antaranews.com
+
+# =========================
+# EAST JAVA ADDITIONAL MEDIA
+# =========================
+DOMAIN-SUFFIX,timesindonesia.co.id
+DOMAIN-SUFFIX,bangsaonline.com
+DOMAIN-SUFFIX,lenteratoday.com
+DOMAIN-SUFFIX,kabarjawatimur.com
+DOMAIN-SUFFIX,suarajatimpost.com
+DOMAIN-SUFFIX,ketik.co.id
+DOMAIN-SUFFIX,kanalsatu.com
+DOMAIN-SUFFIX,jawapes.or.id
+DOMAIN-SUFFIX,zonajatim.com
+DOMAIN-SUFFIX,wartabromo.com
+DOMAIN-SUFFIX,malangpost.id
+DOMAIN-SUFFIX,malangposcomedia.id
+DOMAIN-SUFFIX,surabayapagi.com
+DOMAIN-SUFFIX,harianbhirawa.co.id
+
+# =========================
 # NATIONAL / MAJOR NEWS
 # =========================
 DOMAIN-SUFFIX,detik.com
