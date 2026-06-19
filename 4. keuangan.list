@@ -1,0 +1,601 @@
+DOMAIN-SUFFIX,files.catbox.moe
+DOMAIN-SUFFIX,kemdikbud.go.id
+DOMAIN-SUFFIX,kemendikdasmen.go.id
+
+# BRI / BRImo / BRIAPI / BRILink
+
+DOMAIN-SUFFIX,bri.co.id
+DOMAIN-SUFFIX,brimo.co.id
+DOMAIN-SUFFIX,briapi.co.id
+DOMAIN-SUFFIX,brilink.co.id
+IP-ASN,133843
+
+# BCA / myBCA / KlikBCA / BCA Digital
+
+DOMAIN-SUFFIX,bca.co.id
+DOMAIN-SUFFIX,klikbca.com
+DOMAIN-SUFFIX,klikbca.co.id
+DOMAIN-SUFFIX,mybca.co.id
+DOMAIN-SUFFIX,mybca.id
+DOMAIN-SUFFIX,bcadigital.co.id
+DOMAIN-SUFFIX,blubybcadigital.id
+IP-ASN,17450
+IP-ASN,131704
+
+# Mandiri / Livin / Mandiri Online
+IP-ASN,23954
+
+DOMAIN-SUFFIX,bankmandiri.co.id
+DOMAIN-SUFFIX,mandiri.co.id
+DOMAIN-SUFFIX,livinmandiri.co.id
+DOMAIN-SUFFIX,mandirionline.co.id
+DOMAIN-SUFFIX,livin.co.id
+IP-ASN,23954
+
+# BNI / BNI Direct / wondr
+
+DOMAIN-SUFFIX,bni.co.id
+DOMAIN-SUFFIX,bnidirect.co.id
+DOMAIN-SUFFIX,wondr.bni.co.id
+IP-ASN,46024
+
+# BTN
+DOMAIN-SUFFIX,static-finture-id.oss-ap-southeast-5.aliyuncs.com
+DOMAIN-SUFFIX,btn.co.id
+
+# CIMB Niaga / OCTO
+
+DOMAIN-SUFFIX,cimbniaga.co.id
+DOMAIN-SUFFIX,octoclicks.co.id
+DOMAIN-SUFFIX,octomobile.co.id
+
+# Danamon / D-Bank
+
+DOMAIN-SUFFIX,danamon.co.id
+
+# Permata
+
+DOMAIN-SUFFIX,permatabank.com
+DOMAIN-SUFFIX,permatanet.com
+
+# OCBC / OCBC NISP
+
+DOMAIN-SUFFIX,ocbc.id
+DOMAIN-SUFFIX,ocbcnisp.com
+
+# Maybank Indonesia
+
+DOMAIN-SUFFIX,maybank.co.id
+DOMAIN-SUFFIX,m2u.co.id
+
+# Panin
+
+DOMAIN-SUFFIX,panin.co.id
+DOMAIN-SUFFIX,paninbank.co.id
+
+# Jenius / BTPN
+
+DOMAIN-SUFFIX,jenius.com
+DOMAIN-SUFFIX,btpn.com
+DOMAIN-SUFFIX,btpn.co.id
+
+# Bank Jago
+
+DOMAIN-SUFFIX,jago.com
+DOMAIN-SUFFIX,jago.co.id
+
+# SeaBank
+
+DOMAIN-SUFFIX,seabank.co.id
+DOMAIN-SUFFIX,seabank.com
+
+# Bank Neo Commerce / NeoBank
+
+DOMAIN-SUFFIX,bankneo.co.id
+DOMAIN-SUFFIX,neobank.co.id
+
+# Bank Mega / Mega Syariah
+
+DOMAIN-SUFFIX,bankmega.com
+DOMAIN-SUFFIX,megasyariah.co.id
+
+# Bank Sinarmas / Simobi
+
+DOMAIN-SUFFIX,banksinarmas.com
+DOMAIN-SUFFIX,simobi.co.id
+
+# Bank Muamalat
+
+DOMAIN-SUFFIX,bankmuamalat.co.id
+
+# BSI / Bank Syariah Indonesia
+
+DOMAIN-SUFFIX,bankbsi.co.id
+DOMAIN-SUFFIX,bsinet.bankbsi.co.id
+DOMAIN-SUFFIX,byond.bankbsi.co.id
+
+# Bank Jatim / BPD Jatim
+
+DOMAIN-SUFFIX,bankjatim.co.id
+
+# Bank DKI / JakOne
+
+DOMAIN-SUFFIX,bankdki.co.id
+DOMAIN-SUFFIX,jakone.mobi
+
+# Bank BJB
+
+DOMAIN-SUFFIX,bankbjb.co.id
+
+# Bank Jateng
+
+DOMAIN-SUFFIX,bankjateng.co.id
+
+# Bank DIY
+
+DOMAIN-SUFFIX,bankbpddiy.co.id
+DOMAIN-SUFFIX,bpddiy.co.id
+
+# Bank digital / bank asing populer
+
+DOMAIN-SUFFIX,superbank.id
+DOMAIN-SUFFIX,linebank.co.id
+DOMAIN-SUFFIX,dbs.id
+DOMAIN-SUFFIX,digibank.co.id
+DOMAIN-SUFFIX,uob.co.id
+DOMAIN-SUFFIX,hsbc.co.id
+DOMAIN-SUFFIX,standardchartered.co.id
+DOMAIN-SUFFIX,citibank.co.id
+
+# Bank Indonesia / QRIS / BI-FAST / ASPI
+
+DOMAIN-SUFFIX,bi.go.id
+DOMAIN-SUFFIX,aspi-indonesia.or.id
+
+# GoPay / GoTo / Gojek
+
+DOMAIN-SUFFIX,gojek.com
+DOMAIN-SUFFIX,gojekapi.com
+DOMAIN-SUFFIX,gojek.co.id
+DOMAIN-SUFFIX,goto.com
+DOMAIN-SUFFIX,goto.io
+DOMAIN-SUFFIX,gopay.co.id
+DOMAIN-SUFFIX,gojekapi.com
+DOMAIN-SUFFIX,gopayapi.com
+# OVO
+DOMAIN-SUFFIX,ovo.id
+DOMAIN-SUFFIX,ovo.co.id
+
+# DANA
+DOMAIN-SUFFIX,dana.id
+
+
+# LinkAja
+
+DOMAIN-SUFFIX,linkaja.id
+DOMAIN-SUFFIX,linkaja.co.id
+
+# Shopee / ShopeePay / SPayLater
+
+DOMAIN-SUFFIX,shopee.co.id
+DOMAIN-SUFFIX,shopee.com
+DOMAIN-SUFFIX,shopeepay.co.id
+DOMAIN-SUFFIX,shopeepay.com
+DOMAIN-SUFFIX,shopeemobile.com
+DOMAIN-SUFFIX,sea.com
+DOMAIN-SUFFIX,seagroup.com
+
+# Tokopedia / GoTo payment ecosystem
+
+DOMAIN-SUFFIX,tokopedia.com
+DOMAIN-SUFFIX,tokopedia.net
+
+# Blibli / Tiket ecosystem payment
+
+DOMAIN-SUFFIX,blibli.com
+DOMAIN-SUFFIX,tiket.com
+DOMAIN-SUFFIX,bliblitiket.com
+DOMAIN-SUFFIX,tiket.photos
+DOMAIN-SUFFIX,traveloka.com
+
+# Payment gateway / QRIS / acquiring / transfer
+
+DOMAIN-SUFFIX,midtrans.com
+DOMAIN-SUFFIX,doku.com
+DOMAIN-SUFFIX,xendit.co
+DOMAIN-SUFFIX,xendit.com
+DOMAIN-SUFFIX,ipaymu.com
+DOMAIN-SUFFIX,duitku.com
+DOMAIN-SUFFIX,faspay.co.id
+DOMAIN-SUFFIX,nicepay.co.id
+DOMAIN-SUFFIX,nicepay.co
+DOMAIN-SUFFIX,oyindonesia.com
+DOMAIN-SUFFIX,flip.id
+DOMAIN-SUFFIX,paper.id
+
+# Akulaku
+
+DOMAIN-SUFFIX,akulaku.com
+DOMAIN-SUFFIX,silvrr.com
+
+# Kredivo / Kredivo Group / FinAccel
+
+DOMAIN-SUFFIX,kredivo.com
+DOMAIN-SUFFIX,kredivocorp.com
+DOMAIN-SUFFIX,finaccel.co
+DOMAIN-SUFFIX,finaccel.com
+
+# YUP / Finture / SamaKita / Yoopay
+
+DOMAIN-SUFFIX,finture.id
+DOMAIN-SUFFIX,finturegroup.com
+DOMAIN-SUFFIX,yup.finture.id
+DOMAIN-SUFFIX,yupindonesia.com
+DOMAIN-SUFFIX,yupfinance.id
+DOMAIN-SUFFIX,samakita.co.id
+DOMAIN-SUFFIX,yoopay.co.id
+
+# Allo Bank / Allo app
+
+DOMAIN-SUFFIX,allobank.com
+DOMAIN-SUFFIX,alloapp.com
+
+# WOM Finance
+
+DOMAIN-SUFFIX,wom.co.id
+
+# Adira Finance
+
+DOMAIN-SUFFIX,adira.co.id
+DOMAIN-SUFFIX,adiraku.co.id
+
+# FIFGROUP / FIFASTRA
+
+DOMAIN-SUFFIX,fifgroup.co.id
+DOMAIN-SUFFIX,fifastra.co.id
+
+# BFI Finance
+
+DOMAIN-SUFFIX,bfi.co.id
+
+# Home Credit Indonesia
+
+DOMAIN-SUFFIX,homecredit.co.id
+
+# Kredit Pintar
+
+DOMAIN-SUFFIX,kreditpintar.com
+
+# JULO
+
+DOMAIN-SUFFIX,julo.co.id
+DOMAIN-SUFFIX,julo.com
+
+# Tunaiku / Amar Bank
+
+DOMAIN-SUFFIX,tunaiku.com
+DOMAIN-SUFFIX,amarbank.co.id
+
+# Easycash
+
+DOMAIN-SUFFIX,easycash.id
+
+# Rupiah Cepat
+
+DOMAIN-SUFFIX,rupiahcepat.co.id
+
+# AdaKami
+
+DOMAIN-SUFFIX,adakami.id
+
+# AdaPundi
+
+DOMAIN-SUFFIX,adapundi.com
+
+# Indodana
+
+DOMAIN-SUFFIX,indodana.id
+DOMAIN-SUFFIX,indodana.com
+DOMAIN-SUFFIX,indodanafinance.co.id
+
+# Modal Rakyat
+
+DOMAIN-SUFFIX,modalrakyat.id
+
+# Akseleran
+
+DOMAIN-SUFFIX,akseleran.co.id
+
+# Amartha
+
+DOMAIN-SUFFIX,amartha.com
+
+# KoinWorks
+
+DOMAIN-SUFFIX,koinworks.com
+
+# Investree
+
+DOMAIN-SUFFIX,investree.id
+DOMAIN-SUFFIX,investree.co.id
+
+# Danamas
+DOMAIN-SUFFIX,danamas.co.id
+
+# Pinjam Yuk / pinjol lain yang sering muncul
+
+DOMAIN-SUFFIX,pinjamyuk.co.id
+DOMAIN-SUFFIX,uangme.id
+DOMAIN-SUFFIX,maucash.id
+DOMAIN-SUFFIX,taralite.com
+DOMAIN-SUFFIX,findaya.co.id
+DOMAIN-SUFFIX,dompetkilat.co.id
+DOMAIN-SUFFIX,danacita.co.id
+DOMAIN-SUFFIX,klikacc.co.id
+
+# Investasi / sekuritas / kripto
+
+DOMAIN-SUFFIX,bibit.id
+DOMAIN-SUFFIX,stockbit.com
+DOMAIN-SUFFIX,ajaib.co.id
+DOMAIN-SUFFIX,ajaib.id
+DOMAIN-SUFFIX,bareksa.com
+DOMAIN-SUFFIX,indopremier.com
+DOMAIN-SUFFIX,pluang.com
+DOMAIN-SUFFIX,pintu.co.id
+DOMAIN-SUFFIX,indodax.com
+DOMAIN-SUFFIX,tokocrypto.com
+
+# Regulator / verifikasi / anti-fraud
+
+DOMAIN-SUFFIX,ojk.go.id
+DOMAIN-SUFFIX,lps.go.id
+DOMAIN-SUFFIX,cekrekening.id
+DOMAIN-SUFFIX,cekrekening.kominfo.go.id
+DOMAIN-SUFFIX,aduannomor.id
+DOMAIN-SUFFIX,afpi.or.id
+DOMAIN-SUFFIX,aftech.id
+
+# Tambahan umum Indonesia / layanan terkait
+
+DOMAIN-SUFFIX,go.id
+DOMAIN-SUFFIX,sch.id
+DOMAIN-SUFFIX,ac.id
+DOMAIN-SUFFIX,local
+DOMAIN-SUFFIX,co.id
+DOMAIN-SUFFIX,cloudlinks.cn
+DOMAIN-KEYWORD,spcsmart
+DOMAIN-KEYWORD,spccam
+DOMAIN-KEYWORD,cctv
+
+# Zoom / TikTok / Quora / tambahan lain
+
+DOMAIN-SUFFIX,zoom.com
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,quoracdn.net
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,new.qvcloud.net
+DOMAIN-SUFFIX,moody0100.com
+DOMAIN-SUFFIX,dwnld.nichind.dev
+DOMAIN-SUFFIX,googlevideo.com
+
+# ==================================================
+# TAMBAHAN BANK INDONESIA
+# ==================================================
+
+# Bank digital
+DOMAIN-SUFFIX,bankraya.co.id
+DOMAIN-SUFFIX,amarbank.co.id
+DOMAIN-SUFFIX,aladinbank.id
+DOMAIN-SUFFIX,banksaqu.co.id
+DOMAIN-SUFFIX,saqu.co.id
+DOMAIN-SUFFIX,krom.id
+DOMAIN-SUFFIX,hibank.co.id
+DOMAIN-SUFFIX,nanobanksyariah.id
+DOMAIN-SUFFIX,bankneo.co.id
+DOMAIN-SUFFIX,superbank.id
+DOMAIN-SUFFIX,linebank.co.id
+
+# Bank umum nasional
+DOMAIN-SUFFIX,kbbank.co.id
+DOMAIN-SUFFIX,bukopin.co.id
+DOMAIN-SUFFIX,bankcapital.co.id
+DOMAIN-SUFFIX,victoriabank.co.id
+DOMAIN-SUFFIX,bankmaspion.co.id
+DOMAIN-SUFFIX,bankganesha.co.id
+DOMAIN-SUFFIX,bankina.co.id
+DOMAIN-SUFFIX,mayapada.com
+DOMAIN-SUFFIX,mncbank.co.id
+DOMAIN-SUFFIX,nobubank.com
+DOMAIN-SUFFIX,okbank.co.id
+DOMAIN-SUFFIX,qnb.co.id
+DOMAIN-SUFFIX,sbiindo.com
+DOMAIN-SUFFIX,bankwoorisaudara.com
+DOMAIN-SUFFIX,banksaudara.com
+DOMAIN-SUFFIX,jtrustbank.co.id
+DOMAIN-SUFFIX,shinhan.co.id
+DOMAIN-SUFFIX,hanabank.co.id
+DOMAIN-SUFFIX,bankofindia.co.id
+DOMAIN-SUFFIX,resonabank.co.id
+DOMAIN-SUFFIX,mizuho.co.id
+DOMAIN-SUFFIX,smbci.com
+DOMAIN-SUFFIX,icbc.co.id
+DOMAIN-SUFFIX,ctbcbank.co.id
+
+# Bank syariah
+DOMAIN-SUFFIX,bcasyariah.co.id
+DOMAIN-SUFFIX,paninbanksyariah.co.id
+DOMAIN-SUFFIX,bankvictoriasyariah.co.id
+DOMAIN-SUFFIX,kbbanksyariah.co.id
+
+# Bank pembangunan daerah
+DOMAIN-SUFFIX,bankaceh.co.id
+DOMAIN-SUFFIX,banksumut.co.id
+DOMAIN-SUFFIX,banknagari.co.id
+DOMAIN-SUFFIX,brksyariah.co.id
+DOMAIN-SUFFIX,banksumselbabel.com
+DOMAIN-SUFFIX,banklampung.co.id
+DOMAIN-SUFFIX,bankbanten.co.id
+DOMAIN-SUFFIX,bankbali.co.id
+DOMAIN-SUFFIX,bankntbsyariah.co.id
+DOMAIN-SUFFIX,bpdntt.co.id
+DOMAIN-SUFFIX,bankkalbar.co.id
+DOMAIN-SUFFIX,bankkalteng.co.id
+DOMAIN-SUFFIX,bankkalsel.co.id
+DOMAIN-SUFFIX,bankaltimtara.co.id
+DOMAIN-SUFFIX,banksulselbar.co.id
+DOMAIN-SUFFIX,banksulutgo.co.id
+DOMAIN-SUFFIX,bankmalukumalut.co.id
+DOMAIN-SUFFIX,bankpapua.co.id
+DOMAIN-SUFFIX,bankbengkulu.co.id
+DOMAIN-SUFFIX,banksulteng.co.id
+
+
+# ==================================================
+# TAMBAHAN PAYLATER / BNPL
+# ==================================================
+
+# Kredivo / FinAccel
+DOMAIN-SUFFIX,kredivo.id
+DOMAIN-SUFFIX,finaccel.co.id
+
+# Akulaku
+DOMAIN-SUFFIX,akulaku.co.id
+DOMAIN-SUFFIX,akulakugroup.com
+DOMAIN-SUFFIX,akulaku.net
+DOMAIN-SUFFIX,silvrr.com
+
+# Atome
+DOMAIN-SUFFIX,atome.id
+DOMAIN-SUFFIX,atome.sg
+
+# Indodana
+DOMAIN-SUFFIX,indodanafintech.co.id
+
+# SPayLater / Shopee
+DOMAIN-SUFFIX,lenteradana.co.id
+
+# GoPayLater
+DOMAIN-SUFFIX,findaya.co.id
+
+# OVO Finansial
+DOMAIN-SUFFIX,ovofinansial.com
+
+# Cicil
+DOMAIN-SUFFIX,cicil.co.id
+
+# KrediFazz / Asetku
+DOMAIN-SUFFIX,kredifazz.id
+DOMAIN-SUFFIX,asetku.co.id
+
+
+# ==================================================
+# TAMBAHAN PINJOL BERIZIN OJK
+# ==================================================
+
+DOMAIN-SUFFIX,p2p.danamas.co.id
+DOMAIN-SUFFIX,myboost.co.id
+DOMAIN-SUFFIX,tokomodal.co.id
+DOMAIN-SUFFIX,modalku.co.id
+DOMAIN-SUFFIX,pendanaan.com
+DOMAIN-SUFFIX,finmas.co.id
+DOMAIN-SUFFIX,klika2c.co.id
+DOMAIN-SUFFIX,ammana.id
+DOMAIN-SUFFIX,pinjamango.co.id
+DOMAIN-SUFFIX,koinp2p.com
+DOMAIN-SUFFIX,pohondana.id
+DOMAIN-SUFFIX,mekar.id
+DOMAIN-SUFFIX,estakapital.co.id
+DOMAIN-SUFFIX,kreditpro.id
+DOMAIN-SUFFIX,fintag.id
+DOMAIN-SUFFIX,crowdo.co.id
+DOMAIN-SUFFIX,pinjamwinwin.com
+DOMAIN-SUFFIX,danarupiah.id
+DOMAIN-SUFFIX,pinjammodal.id
+DOMAIN-SUFFIX,alamisharia.co.id
+DOMAIN-SUFFIX,awantunai.co.id
+DOMAIN-SUFFIX,danakini.co.id
+DOMAIN-SUFFIX,singa.id
+DOMAIN-SUFFIX,danamerdeka.co.id
+DOMAIN-SUFFIX,finplus.co.id
+DOMAIN-SUFFIX,pinjamduit.co.id
+DOMAIN-SUFFIX,danasyariah.id
+DOMAIN-SUFFIX,batumbu.id
+DOMAIN-SUFFIX,cashcepat.id
+DOMAIN-SUFFIX,klikumkm.co.id
+DOMAIN-SUFFIX,kreditplusteknologi.id
+DOMAIN-SUFFIX,lumbungdana.co.id
+DOMAIN-SUFFIX,360kredi.id
+DOMAIN-SUFFIX,kredinesia.id
+DOMAIN-SUFFIX,pintek.id
+DOMAIN-SUFFIX,solusi-ku.id
+DOMAIN-SUFFIX,cairin.id
+DOMAIN-SUFFIX,trustiq.id
+DOMAIN-SUFFIX,klikkami.co.id
+DOMAIN-SUFFIX,duhasyariah.com
+DOMAIN-SUFFIX,invoila.co.id
+DOMAIN-SUFFIX,sanders.co.id
+DOMAIN-SUFFIX,danabagus.id
+DOMAIN-SUFFIX,ukuindo.com
+DOMAIN-SUFFIX,kredito.id
+DOMAIN-SUFFIX,modalnasional.co.id
+DOMAIN-SUFFIX,komunal.co.id
+DOMAIN-SUFFIX,restock.id
+DOMAIN-SUFFIX,avantee.co.id
+DOMAIN-SUFFIX,gradana.co.id
+DOMAIN-SUFFIX,ikimodal.com
+DOMAIN-SUFFIX,ivoji.id
+DOMAIN-SUFFIX,indofund.id
+DOMAIN-SUFFIX,igrow.asia
+DOMAIN-SUFFIX,danai.id
+DOMAIN-SUFFIX,minjem.com
+DOMAIN-SUFFIX,lahansikam.co.id
+DOMAIN-SUFFIX,qazwa.id
+DOMAIN-SUFFIX,doeku.id
+DOMAIN-SUFFIX,aktivaku.com
+DOMAIN-SUFFIX,danain.co.id
+DOMAIN-SUFFIX,indosaku.id
+DOMAIN-SUFFIX,edufund.co.id
+DOMAIN-SUFFIX,gandengtangan.co.id
+DOMAIN-SUFFIX,papitupisyariah.com
+DOMAIN-SUFFIX,bantusaku.id
+DOMAIN-SUFFIX,danabijak.com
+DOMAIN-SUFFIX,adamodal.co.id
+DOMAIN-SUFFIX,kawancicil.co.id
+DOMAIN-SUFFIX,klikcair.com
+DOMAIN-SUFFIX,ethis.co.id
+DOMAIN-SUFFIX,samir.co.id
+DOMAIN-SUFFIX,uatas.id
+
+
+# ==================================================
+# INFRASTRUKTUR API / CDN KHUSUS
+# ==================================================
+
+DOMAIN-SUFFIX,gopayapi.com
+DOMAIN-SUFFIX,gojekapi.com
+DOMAIN-SUFFIX,shopeemobile.com
+DOMAIN-SUFFIX,finaccel.com
+DOMAIN-SUFFIX,finaccel.co
+DOMAIN-SUFFIX,silvrr.com
+DOMAIN-SUFFIX,finturegroup.com
+DOMAIN-SUFFIX,static-finture-id.oss-ap-southeast-5.aliyuncs.com
+# Lazada / LazPayLater
+DOMAIN-SUFFIX,lazada.co.id
+DOMAIN-SUFFIX,lazada.com
+DOMAIN-SUFFIX,lazcdn.com
+
+# Bukalapak dan layanan pembayaran
+DOMAIN-SUFFIX,bukalapak.com
+DOMAIN-SUFFIX,bukalapak.io
+DOMAIN-SUFFIX,bukalapak.net
+
+# Tambahan hasil audit log Surge
+
+# Shopee / ShopeePay / SPayLater
+DOMAIN-SUFFIX,shopee.io
+DOMAIN-SUFFIX,shp.ee
+
+# Allo Bank - jaringan IP aplikasi
+IP-ASN,141614
+

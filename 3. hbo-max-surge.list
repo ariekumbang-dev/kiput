@@ -1,0 +1,37 @@
+# HBO / Max / Warner - Surge Rule Set
+# Usage in Surge config: RULE-SET,https://your-server/hbo-max-surge.list,HBO
+
+DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,hbomax.eu
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,maxgo.com
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN-SUFFIX,hbogoasia.id
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,hboprod.com
+DOMAIN-SUFFIX,warnerbros.com
+DOMAIN-SUFFIX,warnerbrosdiscovery.com
+DOMAIN-SUFFIX,wbd.com
+DOMAIN-SUFFIX,wbdnbo.net
+DOMAIN-SUFFIX,warnermediacdn.com
+DOMAIN-SUFFIX,warnermedia.com
+DOMAIN-SUFFIX,warnermediagroup.com
+DOMAIN-SUFFIX,discovery.com
+DOMAIN-SUFFIX,discoveryplus.com
+DOMAIN-SUFFIX,turner.com
+DOMAIN-SUFFIX,cinemax.com
+DOMAIN-SUFFIX,tntdrama.com
+DOMAIN-SUFFIX,tbs.com
+DOMAIN-SUFFIX,trutv.com
+DOMAIN-SUFFIX,cartoonnetwork.com
+DOMAIN-SUFFIX,adultswim.com
+DOMAIN-SUFFIX,dc.com
+DOMAIN-SUFFIX,dcuniverseinfinite.com
+DOMAIN-KEYWORD,hbomax
+DOMAIN-KEYWORD,hbogo
+DOMAIN-KEYWORD,hbo
+DOMAIN-KEYWORD,warnermedia

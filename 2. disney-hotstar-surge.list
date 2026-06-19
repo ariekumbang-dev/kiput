@@ -1,0 +1,37 @@
+# Disney+ / Hotstar - Surge Rule Set
+# Usage in Surge config: RULE-SET,https://your-server/disney-hotstar-surge.list,DISNEY
+
+DOMAIN-SUFFIX,abc.com
+DOMAIN-SUFFIX,abcnews.com
+DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,dilcdn.com
+DOMAIN-SUFFIX,disney-asia.com
+DOMAIN-SUFFIX,disney-plus.net
+DOMAIN-SUFFIX,disney.com
+DOMAIN-SUFFIX,disney.com.au
+DOMAIN-SUFFIX,disney.com.br
+DOMAIN-SUFFIX,disney.com.hk
+DOMAIN-SUFFIX,disney.com.tw
+DOMAIN-SUFFIX,disney.id
+DOMAIN-SUFFIX,disney.my
+DOMAIN-SUFFIX,disney.sg
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,disneystreaming.com
+DOMAIN-SUFFIX,dscw80.akamai.net
+DOMAIN-SUFFIX,dssedge.com
+DOMAIN-SUFFIX,dssott.com
+DOMAIN-SUFFIX,edgedatg.com
+DOMAIN-SUFFIX,espn.com
+DOMAIN-SUFFIX,espn.net
+DOMAIN-SUFFIX,espncdn.com
+DOMAIN-SUFFIX,marvel.com
+DOMAIN-SUFFIX,nationalgeographic.com
+DOMAIN-SUFFIX,starwars.com
+DOMAIN-SUFFIX,streamingdisney.net
+DOMAIN-KEYWORD,disney
+DOMAIN-KEYWORD,disneyplus
+DOMAIN-KEYWORD,bamgrid
+DOMAIN-KEYWORD,dssedge
+DOMAIN-KEYWORD,dssott
+DOMAIN-KEYWORD,hotstar
+DOMAIN-KEYWORD,starott
