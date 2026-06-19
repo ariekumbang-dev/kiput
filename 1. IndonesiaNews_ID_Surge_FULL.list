@@ -105,7 +105,6 @@ DOMAIN-SUFFIX,hai.grid.id
 DOMAIN-SUFFIX,bolasport.com
 DOMAIN-SUFFIX,bola.com
 DOMAIN-SUFFIX,bolanet.com
-DOMAIN-SUFFIX,bola.net
 DOMAIN-SUFFIX,goal.com
 DOMAIN-SUFFIX,panditfootball.com
 
@@ -120,14 +119,7 @@ DOMAIN-SUFFIX,gtv.id
 DOMAIN-SUFFIX,trans7.co.id
 DOMAIN-SUFFIX,tranztv.co.id
 DOMAIN-SUFFIX,transtv.co.id
-DOMAIN-SUFFIX,cnbcindonesia.com
-DOMAIN-SUFFIX,cnnindonesia.com
-DOMAIN-SUFFIX,metrotvnews.com
-DOMAIN-SUFFIX,kompas.tv
-DOMAIN-SUFFIX,tvonenews.com
-DOMAIN-SUFFIX,inews.id
 DOMAIN-SUFFIX,netmedia.co.id
-DOMAIN-SUFFIX,narasi.tv
 DOMAIN-SUFFIX,vidio.com
 DOMAIN-SUFFIX,beritasatu.tv
 DOMAIN-SUFFIX,elshinta.com
@@ -176,8 +168,6 @@ DOMAIN-KEYWORD,tribun
 # =========================
 # DETIK NETWORK / TRANS MEDIA
 # =========================
-DOMAIN-SUFFIX,detik.com
-DOMAIN-SUFFIX,detik.net.id
 DOMAIN-SUFFIX,20.detik.com
 DOMAIN-SUFFIX,finance.detik.com
 DOMAIN-SUFFIX,news.detik.com
@@ -198,13 +188,7 @@ DOMAIN-KEYWORD,detik
 # =========================
 # KOMPAS GRAMEDIA NETWORK
 # =========================
-DOMAIN-SUFFIX,kompas.com
-DOMAIN-SUFFIX,kompas.id
-DOMAIN-SUFFIX,kompas.tv
 DOMAIN-SUFFIX,kgmedia.id
-DOMAIN-SUFFIX,grid.id
-DOMAIN-SUFFIX,gridoto.com
-DOMAIN-SUFFIX,hai.grid.id
 DOMAIN-SUFFIX,nakita.grid.id
 DOMAIN-SUFFIX,parapuan.co
 DOMAIN-SUFFIX,sonora.id
@@ -216,23 +200,15 @@ DOMAIN-KEYWORD,kompas
 # =========================
 # MNC / SINDO / OKEZONE NETWORK
 # =========================
-DOMAIN-SUFFIX,okezone.com
-DOMAIN-SUFFIX,sindonews.com
-DOMAIN-SUFFIX,inews.id
-DOMAIN-SUFFIX,idxchannel.com
-DOMAIN-SUFFIX,mnctrijaya.com
 DOMAIN-SUFFIX,sportstars.id
 DOMAIN-SUFFIX,celebrities.id
 DOMAIN-SUFFIX,visionplus.id
-DOMAIN-SUFFIX,rctiplus.com
 DOMAIN-KEYWORD,okezone
 DOMAIN-KEYWORD,sindonews
 
 # =========================
 # JAWA POS / DISWAY NETWORK
 # =========================
-DOMAIN-SUFFIX,jawapos.com
-DOMAIN-SUFFIX,jpnn.com
 DOMAIN-SUFFIX,disway.id
 DOMAIN-SUFFIX,harian.disway.id
 DOMAIN-SUFFIX,radarlampung.disway.id
@@ -282,8 +258,6 @@ DOMAIN-SUFFIX,krjogja.com
 DOMAIN-SUFFIX,harianjogja.com
 DOMAIN-SUFFIX,bernas.id
 DOMAIN-SUFFIX,jogja.tribunnews.com
-DOMAIN-SUFFIX,radarsolo.jawapos.com
-DOMAIN-SUFFIX,radarsemarang.jawapos.com
 DOMAIN-SUFFIX,magelangekspres.disway.id
 DOMAIN-SUFFIX,banyumas.tribunnews.com
 DOMAIN-SUFFIX,murianews.com
@@ -292,7 +266,6 @@ DOMAIN-SUFFIX,betanews.id
 # =========================
 # EAST JAVA / MADURA / BALI / NUSA TENGGARA
 # =========================
-DOMAIN-SUFFIX,suarasurabaya.net
 DOMAIN-SUFFIX,surya.co.id
 DOMAIN-SUFFIX,beritajatim.com
 DOMAIN-SUFFIX,jatimnow.com
@@ -303,13 +276,6 @@ DOMAIN-SUFFIX,ngopibareng.id
 DOMAIN-SUFFIX,blok-a.com
 DOMAIN-SUFFIX,tugumalang.id
 DOMAIN-SUFFIX,malangtimes.com
-DOMAIN-SUFFIX,radarsurabaya.jawapos.com
-DOMAIN-SUFFIX,radarjember.jawapos.com
-DOMAIN-SUFFIX,radarmalang.jawapos.com
-DOMAIN-SUFFIX,radarkediri.jawapos.com
-DOMAIN-SUFFIX,radarbromo.jawapos.com
-DOMAIN-SUFFIX,radarbojonegoro.jawapos.com
-DOMAIN-SUFFIX,radarmadura.jawapos.com
 DOMAIN-SUFFIX,beritabaik.id
 DOMAIN-SUFFIX,balipost.com
 DOMAIN-SUFFIX,nusabali.com
@@ -325,24 +291,16 @@ DOMAIN-SUFFIX,ntt.tribunnews.com
 DOMAIN-SUFFIX,serambinews.com
 DOMAIN-SUFFIX,waspada.id
 DOMAIN-SUFFIX,harianhaluan.com
-DOMAIN-SUFFIX,riaupos.jawapos.com
 DOMAIN-SUFFIX,pekanbaru.tribunnews.com
-DOMAIN-SUFFIX,tribunpekanbaru.com
-DOMAIN-SUFFIX,tribun-medan.com
 DOMAIN-SUFFIX,medan.tribunnews.com
 DOMAIN-SUFFIX,palembang.tribunnews.com
 DOMAIN-SUFFIX,lampung.tribunnews.com
-DOMAIN-SUFFIX,tribunlampung.co.id
-DOMAIN-SUFFIX,radarlampung.disway.id
 DOMAIN-SUFFIX,babel.tribunnews.com
 DOMAIN-SUFFIX,batam.tribunnews.com
-DOMAIN-SUFFIX,tribunbatam.id
 DOMAIN-SUFFIX,jambi.tribunnews.com
 DOMAIN-SUFFIX,bengkulu.tribunnews.com
 DOMAIN-SUFFIX,aceh.tribunnews.com
-DOMAIN-SUFFIX,tribunnewsaceh.com
 DOMAIN-SUFFIX,padang.tribunnews.com
-DOMAIN-SUFFIX,tribunpadang.com
 DOMAIN-SUFFIX,haluan.co
 DOMAIN-SUFFIX,klikpositif.com
 
@@ -350,13 +308,11 @@ DOMAIN-SUFFIX,klikpositif.com
 # KALIMANTAN
 # =========================
 DOMAIN-SUFFIX,banjarmasinpost.co.id
-DOMAIN-SUFFIX,kaltimpost.jawapos.com
 DOMAIN-SUFFIX,prokal.co
 DOMAIN-SUFFIX,kalteng.tribunnews.com
 DOMAIN-SUFFIX,kaltim.tribunnews.com
 DOMAIN-SUFFIX,kaltara.tribunnews.com
 DOMAIN-SUFFIX,pontianak.tribunnews.com
-DOMAIN-SUFFIX,tribunpontianak.co.id
 DOMAIN-SUFFIX,balikpapan.prokal.co
 DOMAIN-SUFFIX,samarinda.prokal.co
 
@@ -365,16 +321,12 @@ DOMAIN-SUFFIX,samarinda.prokal.co
 # =========================
 DOMAIN-SUFFIX,fajar.co.id
 DOMAIN-SUFFIX,makassar.tribunnews.com
-DOMAIN-SUFFIX,tribun-timur.com
 DOMAIN-SUFFIX,manado.tribunnews.com
-DOMAIN-SUFFIX,tribunmanado.co.id
 DOMAIN-SUFFIX,palu.tribunnews.com
 DOMAIN-SUFFIX,kendari.tribunnews.com
-DOMAIN-SUFFIX,tribunnewssultra.com
 DOMAIN-SUFFIX,gorontalo.tribunnews.com
 DOMAIN-SUFFIX,ambon.tribunnews.com
 DOMAIN-SUFFIX,ternate.tribunnews.com
-DOMAIN-SUFFIX,tribunternate.com
 DOMAIN-SUFFIX,papua.tribunnews.com
 DOMAIN-SUFFIX,cenderawasihpos.jawapos.com
 DOMAIN-SUFFIX,jayapura.tribunnews.com
@@ -405,15 +357,10 @@ DOMAIN-SUFFIX,bbc.co.uk
 # =========================
 # NEWS KEYWORDS
 # =========================
-DOMAIN-KEYWORD,detik
-DOMAIN-KEYWORD,kompas
 DOMAIN-KEYWORD,liputan6
 DOMAIN-KEYWORD,cnbcindonesia
 DOMAIN-KEYWORD,cnnindonesia
 DOMAIN-KEYWORD,republika
-DOMAIN-KEYWORD,jawapos
-DOMAIN-KEYWORD,tribun
-DOMAIN-KEYWORD,radar
 DOMAIN-KEYWORD,berita
 DOMAIN-KEYWORD,kabar
 DOMAIN-KEYWORD,warta
