@@ -3,6 +3,12 @@ DOMAIN-SUFFIX,files.catbox.moe
 DOMAIN-SUFFIX,kemendikdasmen.go.id
 DOMAIN-SUFFIX,kemdikbud.go.id
 DOMAIN-SUFFIX,go.id
+DOMAIN-SUFFIX,sch.id
+DOMAIN-SUFFIX,ac.id
+DOMAIN-SUFFIX,web.id
+DOMAIN-SUFFIX,bibit.id
+DOMAIN-SUFFIX,local
+DOMAIN-SUFFIX,co.id
 DOMAIN-SUFFIX,bri.co.id
 DOMAIN-SUFFIX,brimo.co.id
 DOMAIN-SUFFIX,briapi.co.id
@@ -178,11 +184,6 @@ DOMAIN-SUFFIX,cekrekening.kominfo.go.id
 DOMAIN-SUFFIX,aduannomor.id
 DOMAIN-SUFFIX,afpi.or.id
 DOMAIN-SUFFIX,aftech.id
-DOMAIN-SUFFIX,go.id
-DOMAIN-SUFFIX,sch.id
-DOMAIN-SUFFIX,ac.id
-DOMAIN-SUFFIX,local
-DOMAIN-SUFFIX,co.id
 DOMAIN-SUFFIX,cloudlinks.cn
 DOMAIN-KEYWORD,spcsmart
 DOMAIN-KEYWORD,spccam
