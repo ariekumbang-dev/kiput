@@ -1,15 +1,3 @@
-# Indonesia News / Media Rule Set for Surge
-# Format: Surge RULE-SET .list
-# Usage:
-# RULE-SET,https://your-domain/rules/IndonesiaNews_ID_Surge_FULL.list,INDONESIA
-#
-# Updated: 2026-06-07
-# Scope: Indonesian news/media portals, TV/radio news sites, regional media, and major media networks.
-# Put this rule-set before GEOIP and FINAL rules.
-
-# =========================
-# ADDITIONAL NATIONAL / DIGITAL MEDIA
-# =========================
 DOMAIN-SUFFIX,idntimes.com
 DOMAIN-SUFFIX,popbela.com
 DOMAIN-SUFFIX,popmama.com
@@ -30,17 +18,9 @@ DOMAIN-SUFFIX,validnews.id
 DOMAIN-SUFFIX,goodnewsfromindonesia.id
 DOMAIN-SUFFIX,theconversation.com
 DOMAIN-SUFFIX,infopublik.id
-
-# =========================
-# GOVERNMENT / PUBLIC BROADCAST NEWS
-# =========================
 DOMAIN-SUFFIX,rri.co.id
 DOMAIN-SUFFIX,tvri.go.id
 DOMAIN-SUFFIX,antaranews.com
-
-# =========================
-# EAST JAVA ADDITIONAL MEDIA
-# =========================
 DOMAIN-SUFFIX,timesindonesia.co.id
 DOMAIN-SUFFIX,bangsaonline.com
 DOMAIN-SUFFIX,lenteratoday.com
@@ -55,10 +35,6 @@ DOMAIN-SUFFIX,malangpost.id
 DOMAIN-SUFFIX,malangposcomedia.id
 DOMAIN-SUFFIX,surabayapagi.com
 DOMAIN-SUFFIX,harianbhirawa.co.id
-
-# =========================
-# NATIONAL / MAJOR NEWS
-# =========================
 DOMAIN-SUFFIX,detik.com
 DOMAIN-SUFFIX,detik.net.id
 DOMAIN-SUFFIX,kompas.com
@@ -107,10 +83,6 @@ DOMAIN-SUFFIX,bola.com
 DOMAIN-SUFFIX,bolanet.com
 DOMAIN-SUFFIX,goal.com
 DOMAIN-SUFFIX,panditfootball.com
-
-# =========================
-# TV / RADIO / BROADCAST MEDIA
-# =========================
 DOMAIN-SUFFIX,rctiplus.com
 DOMAIN-SUFFIX,mnctrijaya.com
 DOMAIN-SUFFIX,mncnews.com
@@ -126,10 +98,6 @@ DOMAIN-SUFFIX,elshinta.com
 DOMAIN-SUFFIX,radioelshinta.com
 DOMAIN-SUFFIX,pramborsfm.com
 DOMAIN-SUFFIX,suarasurabaya.net
-
-# =========================
-# TRIBUN NETWORK
-# =========================
 DOMAIN-SUFFIX,tribunnews.com
 DOMAIN-SUFFIX,tribunnewswiki.com
 DOMAIN-SUFFIX,tribunnewsbogor.com
@@ -164,10 +132,6 @@ DOMAIN-SUFFIX,tribunternate.com
 DOMAIN-SUFFIX,tribunwow.com
 DOMAIN-KEYWORD,tribunnews
 DOMAIN-KEYWORD,tribun
-
-# =========================
-# DETIK NETWORK / TRANS MEDIA
-# =========================
 DOMAIN-SUFFIX,20.detik.com
 DOMAIN-SUFFIX,finance.detik.com
 DOMAIN-SUFFIX,news.detik.com
@@ -184,10 +148,6 @@ DOMAIN-SUFFIX,insertlive.com
 DOMAIN-SUFFIX,beautynesia.id
 DOMAIN-SUFFIX,femaledaily.com
 DOMAIN-KEYWORD,detik
-
-# =========================
-# KOMPAS GRAMEDIA NETWORK
-# =========================
 DOMAIN-SUFFIX,kgmedia.id
 DOMAIN-SUFFIX,nakita.grid.id
 DOMAIN-SUFFIX,parapuan.co
@@ -196,19 +156,11 @@ DOMAIN-SUFFIX,intisari.grid.id
 DOMAIN-SUFFIX,nationalgeographic.grid.id
 DOMAIN-SUFFIX,bobo.grid.id
 DOMAIN-KEYWORD,kompas
-
-# =========================
-# MNC / SINDO / OKEZONE NETWORK
-# =========================
 DOMAIN-SUFFIX,sportstars.id
 DOMAIN-SUFFIX,celebrities.id
 DOMAIN-SUFFIX,visionplus.id
 DOMAIN-KEYWORD,okezone
 DOMAIN-KEYWORD,sindonews
-
-# =========================
-# JAWA POS / DISWAY NETWORK
-# =========================
 DOMAIN-SUFFIX,disway.id
 DOMAIN-SUFFIX,harian.disway.id
 DOMAIN-SUFFIX,radarlampung.disway.id
@@ -226,10 +178,6 @@ DOMAIN-SUFFIX,kaltimpost.jawapos.com
 DOMAIN-SUFFIX,riaupos.jawapos.com
 DOMAIN-KEYWORD,jawapos
 DOMAIN-KEYWORD,radar
-
-# =========================
-# JAKARTA / BANTEN / WEST JAVA
-# =========================
 DOMAIN-SUFFIX,poskota.co.id
 DOMAIN-SUFFIX,wartakota.tribunnews.com
 DOMAIN-SUFFIX,beritajakarta.id
@@ -248,10 +196,6 @@ DOMAIN-SUFFIX,jabarekspres.com
 DOMAIN-SUFFIX,galamedia.pikiran-rakyat.com
 DOMAIN-SUFFIX,depok.pikiran-rakyat.com
 DOMAIN-SUFFIX,bekasi.pikiran-rakyat.com
-
-# =========================
-# CENTRAL JAVA / DIY
-# =========================
 DOMAIN-SUFFIX,suaramerdeka.com
 DOMAIN-SUFFIX,solopos.com
 DOMAIN-SUFFIX,krjogja.com
@@ -262,10 +206,6 @@ DOMAIN-SUFFIX,magelangekspres.disway.id
 DOMAIN-SUFFIX,banyumas.tribunnews.com
 DOMAIN-SUFFIX,murianews.com
 DOMAIN-SUFFIX,betanews.id
-
-# =========================
-# EAST JAVA / MADURA / BALI / NUSA TENGGARA
-# =========================
 DOMAIN-SUFFIX,surya.co.id
 DOMAIN-SUFFIX,beritajatim.com
 DOMAIN-SUFFIX,jatimnow.com
@@ -284,10 +224,6 @@ DOMAIN-SUFFIX,baliexpress.jawapos.com
 DOMAIN-SUFFIX,lombokpost.jawapos.com
 DOMAIN-SUFFIX,poskupang.com
 DOMAIN-SUFFIX,ntt.tribunnews.com
-
-# =========================
-# SUMATRA
-# =========================
 DOMAIN-SUFFIX,serambinews.com
 DOMAIN-SUFFIX,waspada.id
 DOMAIN-SUFFIX,harianhaluan.com
@@ -303,10 +239,6 @@ DOMAIN-SUFFIX,aceh.tribunnews.com
 DOMAIN-SUFFIX,padang.tribunnews.com
 DOMAIN-SUFFIX,haluan.co
 DOMAIN-SUFFIX,klikpositif.com
-
-# =========================
-# KALIMANTAN
-# =========================
 DOMAIN-SUFFIX,banjarmasinpost.co.id
 DOMAIN-SUFFIX,prokal.co
 DOMAIN-SUFFIX,kalteng.tribunnews.com
@@ -315,10 +247,6 @@ DOMAIN-SUFFIX,kaltara.tribunnews.com
 DOMAIN-SUFFIX,pontianak.tribunnews.com
 DOMAIN-SUFFIX,balikpapan.prokal.co
 DOMAIN-SUFFIX,samarinda.prokal.co
-
-# =========================
-# SULAWESI / MALUKU / PAPUA
-# =========================
 DOMAIN-SUFFIX,fajar.co.id
 DOMAIN-SUFFIX,makassar.tribunnews.com
 DOMAIN-SUFFIX,manado.tribunnews.com
@@ -330,10 +258,6 @@ DOMAIN-SUFFIX,ternate.tribunnews.com
 DOMAIN-SUFFIX,papua.tribunnews.com
 DOMAIN-SUFFIX,cenderawasihpos.jawapos.com
 DOMAIN-SUFFIX,jayapura.tribunnews.com
-
-# =========================
-# LOCAL / CITIZEN / ALTERNATIVE MEDIA
-# =========================
 DOMAIN-SUFFIX,kabarindonesia.com
 DOMAIN-SUFFIX,kabar24.bisnis.com
 DOMAIN-SUFFIX,bisnis.com
@@ -353,10 +277,6 @@ DOMAIN-SUFFIX,kontrasonline.com
 DOMAIN-SUFFIX,voaindonesia.com
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbc.co.uk
-
-# =========================
-# NEWS KEYWORDS
-# =========================
 DOMAIN-KEYWORD,liputan6
 DOMAIN-KEYWORD,cnbcindonesia
 DOMAIN-KEYWORD,cnnindonesia
@@ -367,3 +287,111 @@ DOMAIN-KEYWORD,warta
 DOMAIN-KEYWORD,harian
 DOMAIN-KEYWORD,suara
 DOMAIN-KEYWORD,mediaindonesia
+DOMAIN-SUFFIX,telkom.co.id
+DOMAIN-SUFFIX,telkom.net.id
+DOMAIN-SUFFIX,telkomsel.com
+DOMAIN-SUFFIX,telkomsel.co.id
+DOMAIN-SUFFIX,indihome.co.id
+DOMAIN-SUFFIX,wifi.id
+DOMAIN-SUFFIX,myorbit.id
+DOMAIN-SUFFIX,telkomselorbit.com
+DOMAIN-SUFFIX,byu.id
+DOMAIN-SUFFIX,indosat.com
+DOMAIN-SUFFIX,indosatooredoo.com
+DOMAIN-SUFFIX,indosatooredoo.co.id
+DOMAIN-SUFFIX,ioh.co.id
+DOMAIN-SUFFIX,im3.id
+DOMAIN-SUFFIX,tri.co.id
+DOMAIN-SUFFIX,indosatm2.com
+DOMAIN-SUFFIX,im2.co.id
+DOMAIN-SUFFIX,xl.co.id
+DOMAIN-SUFFIX,xlaxiata.co.id
+DOMAIN-SUFFIX,xlsmart.co.id
+DOMAIN-SUFFIX,axis.co.id
+DOMAIN-SUFFIX,smartfren.com
+DOMAIN-SUFFIX,smartfren.co.id
+DOMAIN-SUFFIX,firstmedia.com
+DOMAIN-SUFFIX,linknet.co.id
+DOMAIN-SUFFIX,biznetnetworks.com
+DOMAIN-SUFFIX,biznethome.net
+DOMAIN-SUFFIX,biznetwifi.com
+DOMAIN-SUFFIX,biznetgio.com
+DOMAIN-SUFFIX,myrepublic.co.id
+DOMAIN-SUFFIX,moratelindo.co.id
+DOMAIN-SUFFIX,oxygen.id
+DOMAIN-SUFFIX,cbn.id
+DOMAIN-SUFFIX,cbn.net.id
+DOMAIN-SUFFIX,mncplay.id
+DOMAIN-SUFFIX,playmedia.co.id
+DOMAIN-SUFFIX,iconnet.id
+DOMAIN-SUFFIX,iconpln.co.id
+DOMAIN-SUFFIX,iconplus.co.id
+DOMAIN-SUFFIX,indonesiaiconplus.co.id
+DOMAIN-SUFFIX,lintasarta.net
+DOMAIN-SUFFIX,lintasarta.co.id
+DOMAIN-SUFFIX,indonet.co.id
+DOMAIN-SUFFIX,indo.net.id
+DOMAIN-SUFFIX,idola.net.id
+DOMAIN-SUFFIX,megavision.net.id
+DOMAIN-SUFFIX,groovy.id
+DOMAIN-SUFFIX,groovy.net.id
+DOMAIN-SUFFIX,balifiber.id
+DOMAIN-SUFFIX,globalxtreme.net
+DOMAIN-SUFFIX,varnion.net.id
+DOMAIN-SUFFIX,varnion.com
+DOMAIN-SUFFIX,uninet.net.id
+DOMAIN-SUFFIX,centrin.net.id
+DOMAIN-SUFFIX,dnet.net.id
+DOMAIN-SUFFIX,melsa.net.id
+DOMAIN-SUFFIX,maxindo.net.id
+DOMAIN-SUFFIX,maxindo.co.id
+DOMAIN-SUFFIX,nap.net.id
+DOMAIN-SUFFIX,napinfo.co.id
+DOMAIN-SUFFIX,iforte.co.id
+DOMAIN-SUFFIX,fiberstar.co.id
+DOMAIN-SUFFIX,netciti.co.id
+DOMAIN-SUFFIX,hypernet.co.id
+DOMAIN-SUFFIX,solnet.id
+DOMAIN-SUFFIX,solnet.co.id
+DOMAIN-SUFFIX,jasatel.co.id
+DOMAIN-SUFFIX,berca.co.id
+DOMAIN-SUFFIX,psn.co.id
+DOMAIN-SUFFIX,telkomsat.co.id
+DOMAIN-SUFFIX,remala.id
+DOMAIN-SUFFIX,win.co.id
+DOMAIN-SUFFIX,jetcoms.net.id
+DOMAIN-SUFFIX,universalnet.co.id
+DOMAIN-SUFFIX,jujung.net
+DOMAIN-SUFFIX,jujungnet.id
+IP-ASN,7713,no-resolve
+IP-ASN,17974,no-resolve
+IP-ASN,23693,no-resolve
+IP-ASN,4761,no-resolve
+IP-ASN,4795,no-resolve
+IP-ASN,23700,no-resolve
+IP-ASN,9905,no-resolve
+IP-ASN,24203,no-resolve
+IP-ASN,17885,no-resolve
+IP-ASN,133798,no-resolve
+IP-ASN,18004,no-resolve
+IP-ASN,4787,no-resolve
+IP-ASN,135478,no-resolve
+IP-ASN,17451,no-resolve
+IP-ASN,9341,no-resolve
+IP-ASN,131111,no-resolve
+IP-ASN,63859,no-resolve
+IP-ASN,17670,no-resolve
+IP-ASN,4800,no-resolve
+IP-ASN,9340,no-resolve
+IP-ASN,9326,no-resolve
+IP-ASN,9657,no-resolve
+IP-ASN,9794,no-resolve
+IP-ASN,17884,no-resolve
+IP-ASN,17995,no-resolve
+IP-ASN,38511,no-resolve
+IP-ASN,45727,no-resolve
+IP-ASN,55699,no-resolve
+IP-ASN,38320,no-resolve
+IP-ASN,9875,no-resolve
+IP-ASN,10217,no-resolve
+IP-ASN,9785,no-resolve
